@@ -1,0 +1,3 @@
+# Project-scoped Codex settings
+# Loaded when running Codex in this repository.
+model_reasoning_effort = "xhigh"
